@@ -7,7 +7,7 @@ Aspiring Software Engineer
 I am a passionate and energetic Computer Science graduate from the Lebanese American University. I enjoy building real-world projects, learning new technologies, and solving problems through code.
 
 Over the past year, I've gained hands-on experience with Python, and completed a data science career track. I’ve worked on a variety of projects including deep learning, machine learning, a chess application, a Flask web app, and even a chatbot using LangChain and OpenAI. Currently i am pursuing a full stack software development at SE factory which is enabling my skills to grow exponentially.
-
+ 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [samirkhansa01@gmail.com](mailto:samirkhansa01@gmail.com)
 * 🤝  I'm open to collaborating on Freelance project in web development.
